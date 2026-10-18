@@ -6,19 +6,17 @@ Sitio web personal desarrollado como proyecto de aprendizaje de HTML y CSS en Ca
 
 [Ver mi hoja de vida](https://edu-gam.github.io/Hoja-de-vida-HTML/)
 
-
 ## 🎨 Mockup del diseño
 
-![Mockup original de la hoja de vida](mockup/Mockup Hoja de Vida.png)
+![Mockup de la hoja de vida](mockup/Mockup%20Hoja%20de%20Vida.png)
 
 ## 🖥️ Evidencia en computador
 
-![Hoja de vida funcionando en PC](capturas/evidencia pc.png)
+![Hoja de vida funcionando en PC](Capturas/evidencia%20pc.png)
 
 ## 📱 Evidencia en celular
 
-![Hoja de vida funcionando en móvil](Capturas/evidencia movil.png)
-
+![Hoja de vida funcionando en móvil](Capturas/evidencia%20movil.png)
 
 ## 📂 Estructura del proyecto
 

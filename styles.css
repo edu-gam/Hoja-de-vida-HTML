@@ -267,3 +267,19 @@ footer {
         gap: 1.5rem;
     }
 }
+
+.proyectos article {
+    background-color: #ffffff;
+    border: 1px solid #e5e9f0;
+    border-radius: 0.5rem;
+    padding: 1.2rem;
+}
+
+.proyectos article h2 {
+    font-size: 1.2rem;
+    color: #2458d3;
+}
+
+.proyectos article p {
+    font-size: 0.9rem;
+}

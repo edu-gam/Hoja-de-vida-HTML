@@ -6,25 +6,19 @@ Sitio web personal desarrollado como proyecto de aprendizaje de HTML y CSS en Ca
 
 [Ver mi hoja de vida](https://edu-gam.github.io/Hoja-de-vida-HTML/)
 
-## 🎨 Diseño y mockup
 
-El diseño se basa en una propuesta visual de estilo moderno y minimalista, con una paleta de colores azul y blanco, tipografía legible y una distribución organizada de la información.
+## 🎨 Mockup del diseño
 
-El objetivo es presentar la información profesional de manera clara, manteniendo una experiencia de navegación sencilla.
+![Mockup original de la hoja de vida](mockup/Mockup Hoja de Vida.png)
 
-![Mockup del diseño de la hoja de vida](docs/mockup/Mockup Hoja de Vida.png)
+## 🖥️ Evidencia en computador
 
-## 🖥️ Vista en computador
+![Hoja de vida funcionando en PC](capturas/evidencia pc.png)
 
-La versión de escritorio permite consultar las diferentes secciones de la hoja de vida mediante el menú de navegación. El contenido está organizado para facilitar la lectura del perfil, la formación académica, las habilidades y la experiencia laboral.
+## 📱 Evidencia en celular
 
-(docs/capturas/evidencia pc.png)
+![Hoja de vida funcionando en móvil](Capturas/evidencia movil.png)
 
-## 📱 Vista en celular
-
-El sitio utiliza CSS adaptable para ajustar la distribución del contenido a pantallas pequeñas. Se busca mantener la legibilidad del texto, la visualización de la fotografía y el acceso al menú de navegación.
-
-(docs/img/evidencia movil.png)
 
 ## 📂 Estructura del proyecto
 

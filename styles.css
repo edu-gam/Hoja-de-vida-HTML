@@ -51,7 +51,7 @@ body {
 }
 
 header {
-    background-color: beige;
+    background-color: lightgray;
     padding: 2rem 5%;
     border-bottom: 1px solid #e5e9f0;
 }
@@ -193,7 +193,7 @@ main section img {
 }
 
 footer {
-    background-color: beige;
+    background-color: lightgray;
     color: #596579;
     padding: 1.5rem 5%;
     text-align: center;
@@ -282,4 +282,83 @@ footer {
 
 .proyectos article p {
     font-size: 0.9rem;
+}
+
+
+/* SECCIONES DE LA HOJA DE VIDA */
+
+/* Títulos principales */
+main section h2 {
+    color: #2458d3;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e7edff;
+}
+
+/* Texto de las secciones */
+main section p {
+    color: #596579;
+    line-height: 1.8;
+}
+
+/* Formación académica y experiencia */
+main section article {
+    background-color: #ffffff;
+    border: 1px solid #e5e9f0;
+    border-left: 4px solid #2458d3;
+    border-radius: 8px;
+    padding: 1rem 1.2rem;
+    margin-bottom: 1rem;
+}
+
+/* Subtítulos de cada bloque */
+main section article h3 {
+    color: #28313d;
+    font-size: 1.1rem;
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+}
+
+/* Espaciado de los textos dentro de los bloques */
+main section article p {
+    margin: 0.3rem 0;
+}
+
+/* Listas de habilidades y experiencia */
+main section ul {
+    padding-left: 1.4rem;
+    margin-top: 0.7rem;
+}
+
+/* Elementos de las listas */
+main section li {
+    color: #596579;
+    padding-left: 0.2rem;
+    margin-bottom: 0.6rem;
+    line-height: 1.7;
+}
+
+/* Efecto suave en los bloques */
+main section article {
+    transition: border-color 0.3s ease,
+                box-shadow 0.3s ease;
+}
+
+main section article:hover {
+    border-color: #cbd8ff;
+    border-left-color: #2458d3;
+    box-shadow: 0 4px 12px rgba(36, 88, 211, 0.08);
+}
+
+/* Adaptación para celulares */
+@media (max-width: 599px) {
+    main section article {
+        padding: 1rem;
+    }
+
+    main section h2 {
+        font-size: 1.3rem;
+    }
 }

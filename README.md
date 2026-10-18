@@ -31,7 +31,7 @@ Sitio web personal desarrollado como proyecto de aprendizaje de HTML y CSS en Ca
 ## 🛠️ Tecnologías utilizadas
 
 - **HTML5:** estructura y organización del contenido.
-- **CSS3:** diseño, colores, tipografía, distribución y adaptación a diferentes pantallas.
+- **CSS:** diseño, colores, tipografía, distribución y adaptación a diferentes pantallas.
 - **Git:** control de versiones del proyecto.
 - **GitHub:** almacenamiento del código fuente.
 - **GitHub Pages:** publicación gratuita del sitio web.

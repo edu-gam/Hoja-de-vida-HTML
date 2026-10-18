@@ -4,9 +4,7 @@ Sitio web personal desarrollado como proyecto de aprendizaje de HTML y CSS en Ca
 
 ## 🌐 Sitio publicado
 
-[Ver mi hoja de vida](https://edu-gam.github.io/hoja-de-vida/)
-
-> Reemplaza la dirección anterior por el enlace real de tu sitio publicado en GitHub Pages.
+[Ver mi hoja de vida](https://edu-gam.github.io/Hoja-de-vida-HTML/)
 
 ## 🎨 Diseño y mockup
 

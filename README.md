@@ -12,11 +12,11 @@ Sitio web personal desarrollado como proyecto de aprendizaje de HTML y CSS en Ca
 
 ## 🖥️ Evidencia en computador
 
-![Hoja de vida funcionando en PC](Capturas/evidencia%20pc.png)
+![Hoja de vida funcionando en PC](capturas/evidencia%20pc.png)
 
 ## 📱 Evidencia en celular
 
-![Hoja de vida funcionando en móvil](Capturas/evidencia%20movil.png)
+![Hoja de vida funcionando en móvil](capturas/evidencia%20movil.png)
 
 ## 📂 Estructura del proyecto
 
